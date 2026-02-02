@@ -52,6 +52,9 @@ Run all cells in `Task1.ipynb` to save:
 - `model/lstm_lm.pt`
 - `model/vocab_lm.pkl`
 
+### Example Output
+![Photo](demo.gif)
+
 ### 2) Run the web app
 ```bash
 cd app
@@ -73,5 +76,3 @@ Assignment_2/
 │   └── app_demo.png
 └── README.md
 
-Example Output
-![Photo](demo.gif)
